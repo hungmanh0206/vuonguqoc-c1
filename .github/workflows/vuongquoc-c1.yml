@@ -4,7 +4,6 @@ on:
   push:
     paths: ['apps/vuongquoc-c1/**', '.github/workflows/vuongquoc-c1.yml']
   pull_request:
-    paths: ['apps/vuongquoc-c1/**', '.github/workflows/vuongquoc-c1.yml']
   workflow_dispatch:
 
 permissions:
